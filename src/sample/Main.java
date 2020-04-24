@@ -59,7 +59,7 @@ public class Main extends Application {
 
        // primaryStage.setScene(new Scene(root, 500, 500));
        // primaryStage.show();
-          // primaryStage.show();
+
        // MenuItem.setAccelerator(KeyCombination.keyCombination("Ctrl+X"));
 
         File file = new File("D:\\");
